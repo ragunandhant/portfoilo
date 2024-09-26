@@ -4,13 +4,16 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 export const DATA = {
   name: "Sree Ragu Nandha",
   initials: "T",
-  url: "https://dillion.io",
+  url: "https://portfoilo.sree-ragu.in",
   location: "San Francisco, CA",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
   description:
     "Software Engineer turned Entrepreneur. I love building things and helping people. Very active on Twitter.",
   summary:
-    "At the end of 2022, I quit my job as a software engineer to go fulltime into building and scaling my own SaaS businesses. In the past, [I pursued a double degree in computer science and business](/#education), [interned at big tech companies in Silicon Valley](https://www.youtube.com/watch?v=d-LJ2e5qKdE), and [competed in over 21 hackathons for fun](/#hackathons). I also had the pleasure of being a part of the first ever in-person cohort of buildspace called [buildspace sf1](https://buildspace.so/sf1).",
+    `At the moment, I am pursuing a degree in Computer Science while interning at an AI startup. My passion lies in coding and working on various projects, continuously sharpening my technical skills.
+With a strong foundation in both academic and practical experiences, I aim to further my career by building and scaling innovative software solutions.
+
+`,
   avatarUrl: "/me.png",
   skills: [
     "React",
@@ -18,10 +21,6 @@ export const DATA = {
     "Typescript",
     "Node.js",
     "Python",
-    "Go",
-    "Postgres",
-    "Docker",
-    "Kubernetes",
     "Java",
     "C++",
   ],
